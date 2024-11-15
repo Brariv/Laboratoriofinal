@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LaboratorioFinal</string>
+    // In res/values/strings.xml
+    <string name="error_fetching_data">Error fetching data</string>
+    <string name="retry">Retry</string>
+    <string name="getting_data">Getting data...</string>
+</resources>
